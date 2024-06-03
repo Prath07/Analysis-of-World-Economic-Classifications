@@ -1,0 +1,22 @@
+Student Name: Prathamesh Tarde
+Student ID: 45946000
+
+Dataset Name: World Economic Classifications v2
+
+Link to the Dataset aquired from Kaggle:
+https://www.kaggle.com/datasets/jeanetteponder/world-economic-classifications
+
+
+The core requirements of the portfolio 4 are:
+
+1. Propose well-defined questions or purposes to the analysis
+
+2. It should involve some data preparation and exploration. (Suggestion: The source address of the dataset can be provided to make our marking easy. Alternatively.  you can upload the dataset or a sampled subset to your Github repo.)
+
+3. You will make use of at least one or more analysis prediction techniques learned from the unit since week 7.
+
+4. Develop some kind of visualisation of the data or performance evaluation results
+
+**Note that you need to include necessary instructions and explanations in your notebook file to demonstrate that you have met these requirements
+
+These 4 requirements have been met in the notebook file and the necessary intructions and explanations have been provided 
